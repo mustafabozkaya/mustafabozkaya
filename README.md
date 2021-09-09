@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=mustafabozkaya&show_icons=true">
 
 ## Merhaba, ben Mustafa BOZKAYA! 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=mustafabozkaya&color=brightgreen)" alt="cobanov" /> </p>
+<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=mustafabozkaya&color=brightgreen)" alt="mustafabozkaya" /> </p>
 
 
 [![](https://img.shields.io/github/followers/mustafabozkaya?style=social)](https://www.github.com/mustafabozkaya)
