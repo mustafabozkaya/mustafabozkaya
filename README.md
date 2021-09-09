@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on R&D
-- 🌱 I’m currently learning Deep learning, Machine Learnings,Data Science,statistics
-- 👯 I’m looking to collaborate on Artificial İntellicense
-- 🤔 I’m looking for help with above my learnings topics
+🔭 I’m currently working on R&D
+🌱 I’m currently learning Deep learning, Machine Learnings,Data Science,statistics
+👯 I’m looking to collaborate on Artificial İntellicense
+🤔 I’m looking for help with above my learnings topics
 - 
 - 📫 How to reach me: ...
 -->
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=mustafabozkaya&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=mboz&show_icons=true">
 
 ## Merhaba, ben Mustafa BOZKAYA! 
 <p align="left"> <img src="![](https://komarev.com/ghpvc/?username=mustafabozkaya&color=brightgreen)" alt="mustafabozkaya" /> </p>
