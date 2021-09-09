@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 ## Merhaba, ben Mustafa BOZKAYA! 
 <p align="left"> <img src="![](https://komarev.com/ghpvc/?username=mboz&color=brightgreen)" alt="mustafabozkaya" /> </p>
+
 [![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mustafabozka)
 
 [![](https://img.shields.io/github/followers/mustafabozkaya?style=social)](https://www.github.com/mustafabozkaya)
