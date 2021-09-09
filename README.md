@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ## Merhaba, ben Mustafa BOZKAYA! 
 <p align="left"> <img src="![](https://komarev.com/ghpvc/?username=mboz&color=brightgreen)" alt="mustafabozkaya" /> </p>
-[![image](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mustafabozka)
-[![image](https://img.shields.io/github/followers/mustafabozkaya?style=social)](https://www.github.com/mustafabozkaya)
-[![image](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-bozkaya/)
+[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mustafabozka)
+[![](https://img.shields.io/github/followers/mustafabozkaya?style=social)](https://www.github.com/mustafabozkaya)
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-bozkaya/)
 [![Mail Badge](https://img.shields.io/badge/info.mustafabozkaya@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:info.mustafabozkaya@gmail.com)](mailto:info.mustafabozkaya@gmail.com)
