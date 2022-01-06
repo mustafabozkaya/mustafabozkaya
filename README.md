@@ -36,6 +36,7 @@ I'm a MACHINE LEARNING R&D ENGINEER DEEP LEARNING ENTHUSIAST
 ## 🔗 Links
 
 [![website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mustafabozkaya.github.io/)
+[![react Projects](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](e-trading-app.herokuapp.com/)
 
 ![komarev](https://komarev.com/ghpvc/?username=mboz&color=brightgreen)
 
