@@ -14,11 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ![Logo](https://paulvanderlaken.files.wordpress.com/2017/08/data-science-skills-network1-e1417010633616.jpg?w=900)
 
     
 # Hi, I'm Mustafa BOZKAYA! 👋
 
+<a href="https://app.daily.dev/mustafaege"><img src="https://api.daily.dev/devcards/f2c7fd0e6c9a47e0bbfda92da6c8dc92.png?r=t2w" width="400" alt="Mustafa Bozkaya's Dev Card"/></a>
 
 ## 🚀 About Me
 I'm a MACHINE LEARNING R&D ENGINEER DEEP LEARNING ENTHUSIAST
