@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     
 # Hi, I'm Mustafa BOZKAYA! 👋
 
-<a href="https://app.daily.dev/mustafaege"><img src="https://api.daily.dev/devcards/f2c7fd0e6c9a47e0bbfda92da6c8dc92.png?r=t2w" width="400" alt="Mustafa Bozkaya's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mustafabozkaya/mustafabozkaya/blob/master/README.md)/blob/master/devcard.svg" width="400" alt="Mustafa Bozkaya's Dev Card"/></a>
 
 ## 🚀 About Me
 I'm a MACHINE LEARNING R&D ENGINEER DEEP LEARNING ENTHUSIAST
