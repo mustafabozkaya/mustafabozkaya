@@ -15,36 +15,63 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Logo](https://paulvanderlaken.files.wordpress.com/2017/08/data-science-skills-network1-e1417010633616.jpg?w=900)
+![Logo](https://d2legaltech.com/wp-content/uploads/2021/03/shutterstock_1881655705-scaled.jpg)
 
     
 # Hi, I'm Mustafa BOZKAYA! 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mustafabozkaya/mustafabozkaya/blob/master/devcard.svg" width="400" alt="Mustafa Bozkaya's Dev Card"/></a>
-
-## 🚀 About Me
-I'm a MACHINE LEARNING R&D ENGINEER DEEP LEARNING ENTHUSIAST
-
-![](https://github-readme-stats.vercel.app/api?username=mustafabozkaya&show_icons=true")
-
-#### 🔭I'm currently working on R&D department
-#### 🌱 I’m currently learning Deep learning, Machine Learnings,Data Science,Statistics
-#### 👯 I’m looking to collaborate on Artificial İntellicense
-#### 🤔 I’m looking for help with above my learnings topics
-#### - 📫 How to reach me: ...
-
-
-  
-## 🔗 Links
-
-[![website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mustafabozkaya.github.io/)
-[![react Projects](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](e-trading-app.herokuapp.com/)
+<!-- 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mustafabozkaya/mustafabozkaya/blob/master/devcard.svg" width="400" alt="Mustafa Bozkaya's Dev Card"/></a> -->
 
 ![komarev](https://komarev.com/ghpvc/?username=mboz&color=brightgreen)
 
+[![githup](https://img.shields.io/github/followers/mustafabozkaya?style=social)](https://www.github.com/mustafabozkaya)
+
+![](https://github-readme-stats.vercel.app/api?username=mustafabozkaya&show_icons=true")
+
+## 🚀 About Me
+
+
+I'm a MACHINE LEARNING R&D ENGINEER and DEEP LEARNİNG ,ROBOTİCS ENTHUSIAST
+
+
+
+### 🔭 I'm currently working on Robotics R&D department
+### 🌱 I’m currently learning Deep learning, Reinforcement Learning , Robotics 
+### 👯  I’m looking to collaborate on Artificial İntellicense
+### 🤔  I’m looking for any resources to improve  with my learnings topics
+
+
+
+# My interests are:
+
+- ### Robotics (ROS1 ROS2)🚀💻⚡
+- ### Computer Vision 💻👁️‍🗨️
+- ### Natural Language Processing 🗣️📝
+- ### Machine learning 🧪🧬📈
+- ### Reinforcements Learning  💻👁️‍
+
+
+
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+
+
+
+## 📫 You can  reach me belove links ...
+## 🔗Social  Links
+
+[![website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mustafabozkaya.github.io/)
+
+[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustafaegebozkaya555)
+
+[![react Projects](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](e-trading-app.herokuapp.com/)
+
+
 [![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mustafabozka)
 
-[![githup](https://img.shields.io/github/followers/mustafabozkaya?style=social)](https://www.github.com/mustafabozkaya)
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-bozkaya/)
 
