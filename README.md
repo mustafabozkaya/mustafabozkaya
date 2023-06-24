@@ -83,18 +83,17 @@ I'm a MACHINE LEARNING R&D ENGINEER and DEEP LEARNİNG ,ROBOTİCS ENTHUSIAST
 
 ## 📫 You can  reach me belove links ...
 ## 🔗Social  Links
+[![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mustafabozka)
+
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-bozkaya/)
+
+[![huggingface](https://img.shields.io/badge/Hugging%20Face-%2305A4CC.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Mustafaege)
 
 [![website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mustafabozkaya.github.io/)
 
 [![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustafaegebozkaya555)
 
 [![react Projects](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](e-trading-app.herokuapp.com/)
-
-
-[![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mustafabozka)
-
-
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-bozkaya/)
 
 [![Mail Badge](https://img.shields.io/badge/info.mustafabozkaya@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:info.mustafabozkaya@gmail.com)](mailto:info.mustafabozkaya@gmail.com)
   
