@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 
 -->    
 # Hi, I'm Mustafa BOZKAYA! 👋
-
+<--
 <div>
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafabozkaya&theme=aura_dark" alt="Mustafa Bozkaya's GitHub stats />
 </div>
 <br clear="both" />
-
+-->
 <div>
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mustafabozkaya&theme=aura_dark" alt="Mustafa Bozkaya's GitHub stats/>
   <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustafabozkaya&theme=aura_dark&utcOffset=8" alt="Mustafa Bozkaya's GitHub stats />
@@ -58,7 +58,7 @@ I'm a MACHINE LEARNING R&D ENGINEER and DEEP LEARNİNG ,ROBOTİCS ENTHUSIAST
 
 
 
-### 🔭 I'm currently working on Robotics R&D department
+### 🔭 I'm currently working on Rust and Go
 ### 🌱 I’m currently learning Deep learning, Reinforcement Learning , Robotics 
 ### 👯  I’m looking to collaborate on Artificial İntellicense
 ### 🤔  I’m looking for any resources to improve  with my learnings topics
