@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 -->    
 # Hi, I'm Mustafa BOZKAYA! 👋
-<--
+<!--
 <div>
   <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafabozkaya&theme=aura_dark" alt="Mustafa Bozkaya's GitHub stats />
 </div>
