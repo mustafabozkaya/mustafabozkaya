@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ![Logo](https://d2legaltech.com/wp-content/uploads/2021/03/shutterstock_1881655705-scaled.jpg)
 
-    
+-->    
 # Hi, I'm Mustafa BOZKAYA! 👋
 
 <div>
