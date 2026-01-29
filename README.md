@@ -16,12 +16,12 @@
 
 ## 🚀 Professional Summary
 
-I am a **Senior Machine Learning Engineer** focused on bridging the gap between cutting-edge research and scalable production systems. My expertise lies in designing robust **Multi-Agent Architectures (BMAD)**, deploying **Vision-Language-Action (VLA)** models for robotics, and implementing enterprise-grade **MLOps/LLMOps** pipelines.
+I am a **Senior Machine Learning Engineer** focused on bridging the gap between cutting-edge research and scalable production systems. My expertise lies in designing robust **Multi-Agent Architectures (BMAD)**, deploying **Vision-Language-Action (VLA)** models, and implementing enterprise-grade **MLOps** pipelines.
 
-I tackle complex challenges in:
-*   **Agentic AI**: Orchestrating autonomous multi-agent workflows and SSD (Single Shot Detector) integrations.
-*   **Infrastructure**: Building resilient AIOps pipelines using Kubernetes and Cloud Native technologies.
-*   **Robotics**: Enabling next-gen autonomy with ROS2 and Deep Reinforcement Learning.
+I specialize in transitioning prototypes to production:
+*   **Methodology**: Pioneering **Spec-Driven Development** for AI Agents and **Multi-Agent Design Patterns**.
+*   **Inference Scale**: Migrating from prototypes (Ollama) to high-throughput product serving (**vLLM**, **Continuous Batching**, **PagedAttention**).
+*   **Infrastructure**: Architecting resilient microservices with **Spring AI**, **Spring Cloud Gateway**, and Kubernetes.
 
 ---
 
@@ -31,11 +31,12 @@ I tackle complex challenges in:
 
 | **Domain** | **Advanced Technologies** |
 | :--- | :--- |
-| **Why Agents?** | **Multi-Agent Systems**, **BMAD Framework**, Agentic Workflows, LangGraph |
+| **Agentic AI** | **Spec-Driven Development**, **Multi-Agent Design Patterns**, BMAD, LangGraph |
+| **Model Serving** | **vLLM** (Production), **Continuous Batching**, PagedAttention, TensorRT-LLM |
 | **Vision & Action** | **VLA Models**, SSD Architectures, Computer Vision Ops |
-| **MLOps & Infra** | **LLMOps**, Kubeflow, Terraform, Prometheus, Grafana, AIOps |
-| **Core AI Stack** | PyTorch, TensorFlow, ROS2, LangChain, Ollama |
-| **Cloud & Deploy** | AWS SageMaker, GCP Vertex AI, Docker, Kubernetes |
+| **Microservices** | **Spring AI**, **Spring Cloud Gateway**, PGVector, Confluence API Integration |
+| **MLOps & Infra** | Kubeflow, Terraform, Prometheus, Grafana, AIOps, Docker, Kubernetes |
+| **Core AI Stack** | PyTorch, TensorFlow, ROS2, LangChain, Ollama (Prototyping) |
 
 </div>
 
