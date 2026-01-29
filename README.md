@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="https://github.com/mustafabozkaya/mustafabozkaya/blob/master/devcard.svg" width="100%" alt="Mustafa Bozkaya Header" />
   <h1>Hi, I'm Mustafa BOZKAYA! 👋</h1>
-  <h3>Machine Learning R&D Engineer | Robotics Enthusiast</h3>
-  <p>Building intelligent agents and autonomous systems.</p>
+  <h3>Senior Machine Learning Engineer | AI Systems Architect</h3>
+  <p>
+    <em>Specializing in Scalable AI Agents, Multi-Agent Systems, and Production MLOps.</em>
+  </p>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mustafa-bozkaya/)
   [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/mustafabozka)
@@ -13,41 +14,53 @@
 
 <br />
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-I am a passionate **Machine Learning R&D Engineer** dedicated to solving complex problems at the intersection of **AI and Robotics**. My work focuses on developing autonomous agents, optimizing deep learning models for edge devices, and building scalable RAG (Retrieval-Augmented Generation) systems.
+I am a **Senior Machine Learning Engineer** focused on bridging the gap between cutting-edge research and scalable production systems. My expertise lies in designing robust **Multi-Agent Architectures (BMAD)**, deploying **Vision-Language-Action (VLA)** models for robotics, and implementing enterprise-grade **MLOps/LLMOps** pipelines.
 
-*   🔭 I’m currently working on **Agentic AI** and **ROS2 Navigation**.
-*   🌱 I’m exploring **Reinforcement Learning** for robotic control.
-*   👯 I’m looking to collaborate on Open Source **AI & Robotics** projects.
-*   💬 Ask me about **Computer Vision, NLP, and SLAM**.
+I tackle complex challenges in:
+*   **Agentic AI**: Orchestrating autonomous multi-agent workflows and SSD (Single Shot Detector) integrations.
+*   **Infrastructure**: Building resilient AIOps pipelines using Kubernetes and Cloud Native technologies.
+*   **Robotics**: Enabling next-gen autonomy with ROS2 and Deep Reinforcement Learning.
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Expertise & Stack
 
 <div align="center">
 
-| **Domain** | **Technologies** |
+| **Domain** | **Advanced Technologies** |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) |
-| **Machine Learning** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
-| **Robotics** | ![ROS1](https://img.shields.io/badge/-ROS1-22314E?style=flat&logo=ros&logoColor=white) ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/-Gazebo-FF0000?style=flat&logo=gazebo&logoColor=white) |
-| **Generative AI** | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) |
-| **Tools & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
+| **Why Agents?** | **Multi-Agent Systems**, **BMAD Framework**, Agentic Workflows, LangGraph |
+| **Vision & Action** | **VLA Models**, SSD Architectures, Computer Vision Ops |
+| **MLOps & Infra** | **LLMOps**, Kubeflow, Terraform, Prometheus, Grafana, AIOps |
+| **Core AI Stack** | PyTorch, TensorFlow, ROS2, LangChain, Ollama |
+| **Cloud & Deploy** | AWS SageMaker, GCP Vertex AI, Docker, Kubernetes |
 
 </div>
 
 ---
 
-## 📂 Featured Projects
+## 🌐 Communities & Knowledge Sharing
 
-| Project | Description | Tech Stack |
+I actively engage with the AI community to stay at the bleeding edge of technology.
+
+| Platform | Communities / Channels |
+| :--- | :--- |
+| **Reddit** | r/MachineLearning, r/LocalLLaMA, r/DataEngineering, r/Robotics |
+| **Medium** | Towards Data Science, Towards AI, Analytics Vidhya |
+| **Foundations** | Hugging Face Open Source, LangChain Community, EleutherAI |
+
+---
+
+## 📂 Featured System Designs
+
+| Project | Architectural Highlights | Tech Stack |
 | :--- | :--- | :--- |
-| **[Awesome Agent RAG LMMs Apps](https://github.com/mustafabozkaya/Awesome_Agent_Rag_LMMs_apps)** | A collection of cutting-edge RAG and Agentic applications. | `Python`, `LangChain`, `RAG` |
-| **[Ollama Chat App](https://github.com/mustafabozkaya/ollama-chat-app)** | Local LLM chat interface enabling privacy-first AI interactions. | `Python`, `Streamlit`, `Ollama` |
-| **[ROS Based Package](https://github.com/mustafabozkaya/Ros-Based-Package-and-Robots)** | ROS packages for robot simulation and control. | `C++`, `Python`, `ROS`, `Gazebo` |
-| **[ChatGPT Discord Bot](https://github.com/mustafabozkaya/chatgpt-discord-bot)** | A robust Discord bot integration for ChatGPT. | `Go`, `OpenAI API` |
+| **[Awesome Agent RAG LMMs Apps](https://github.com/mustafabozkaya/Awesome_Agent_Rag_LMMs_apps)** | **Agentic RAG System**. Designed to orchestrate complex retrieval workflows. | `Python`, `LangChain`, `RAG`, `Agents` |
+| **[Ollama Chat App](https://github.com/mustafabozkaya/ollama-chat-app)** | **Private LLM Deployment**. Local inference optimization for privacy-first AI. | `Python`, `Streamlit`, `Ollama`, `LocalLLM` |
+| **[ROS Based Package](https://github.com/mustafabozkaya/Ros-Based-Package-and-Robots)** | **Robotics Middleware**. Modular ROS2 packages for autonomous navigation. | `C++`, `ROS2`, `Gazebo`, `SLAM` |
+| **[ChatGPT Discord Bot](https://github.com/mustafabozkaya/chatgpt-discord-bot)** | **Scalable Microservice**. Event-driven bot architecture. | `Go`, `OpenAI API`, `async/await` |
 
 ---
 
