@@ -1,104 +1,71 @@
+<div align="center">
+  <img src="https://github.com/mustafabozkaya/mustafabozkaya/blob/master/devcard.svg" width="100%" alt="Mustafa Bozkaya Header" />
+  <h1>Hi, I'm Mustafa BOZKAYA! 👋</h1>
+  <h3>Machine Learning R&D Engineer | Robotics Enthusiast</h3>
+  <p>Building intelligent agents and autonomous systems.</p>
 
-
-<!--
-**mustafabozkaya/mustafabozkaya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-![Logo](https://d2legaltech.com/wp-content/uploads/2021/03/shutterstock_1881655705-scaled.jpg)
-
--->    
-# Hi, I'm Mustafa BOZKAYA! 👋
-<!--
-<div>
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mustafabozkaya&theme=aura_dark" alt="Mustafa Bozkaya's GitHub stats />
-</div>
-<br clear="both" />
--->
-<div>
-  <img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mustafabozkaya&theme=aura_dark" alt="Mustafa Bozkaya's GitHub stats/>
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustafabozkaya&theme=aura_dark&utcOffset=8" alt="Mustafa Bozkaya's GitHub stats />
-</div>
-<br clear="both" />
-
-<div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mustafabozkaya&show_icons=true&theme=radical&count_private=true" alt="Mustafa Bozkaya's GitHub stats" />
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mustafa-bozkaya/)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/mustafabozka)
+  [![HuggingFace](https://img.shields.io/badge/Hugging_Face-Models-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/Mustafaege)
+  [![Medium](https://img.shields.io/badge/Medium-Read_Articles-12100E?style=for-the-badge&logo=medium)](https://medium.com/@mustafaegebozkaya555)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-000?style=for-the-badge&logo=ko-fi)](https://mustafabozkaya.github.io/)
 </div>
 
-<!-- ![](https://github-readme-stats.vercel.app/api?username=mustafabozkaya&show_icons=true")
--->
-
-<br clear="both" />
-
-
-![komarev](https://komarev.com/ghpvc/?username=mboz&color=brightgreen)
-<!-- 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/mustafabozkaya/mustafabozkaya/blob/master/devcard.svg" width="400" alt="Mustafa Bozkaya's Dev Card"/></a> -->
-
-
-
-[![githup](https://img.shields.io/github/followers/mustafabozkaya?style=social)](https://www.github.com/mustafabozkaya)
-
-
+<br />
 
 ## 🚀 About Me
 
+I am a passionate **Machine Learning R&D Engineer** dedicated to solving complex problems at the intersection of **AI and Robotics**. My work focuses on developing autonomous agents, optimizing deep learning models for edge devices, and building scalable RAG (Retrieval-Augmented Generation) systems.
 
-I'm a MACHINE LEARNING R&D ENGINEER and DEEP LEARNİNG ,ROBOTİCS ENTHUSIAST
+*   🔭 I’m currently working on **Agentic AI** and **ROS2 Navigation**.
+*   🌱 I’m exploring **Reinforcement Learning** for robotic control.
+*   👯 I’m looking to collaborate on Open Source **AI & Robotics** projects.
+*   💬 Ask me about **Computer Vision, NLP, and SLAM**.
 
+---
 
+## 🛠️ Technical Skills
 
-### 🔭 I'm currently working on Rust and Go
-### 🌱 I’m currently learning Deep learning, Reinforcement Learning , Robotics 
-### 👯  I’m looking to collaborate on Artificial İntellicense
-### 🤔  I’m looking for any resources to improve  with my learnings topics
+<div align="center">
 
+| **Domain** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) |
+| **Machine Learning** | ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) |
+| **Robotics** | ![ROS1](https://img.shields.io/badge/-ROS1-22314E?style=flat&logo=ros&logoColor=white) ![ROS2](https://img.shields.io/badge/-ROS2-22314E?style=flat&logo=ros&logoColor=white) ![Gazebo](https://img.shields.io/badge/-Gazebo-FF0000?style=flat&logo=gazebo&logoColor=white) |
+| **Generative AI** | ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white) ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat&logo=ollama&logoColor=white) ![HuggingFace](https://img.shields.io/badge/-Transformers-FFD21E?style=flat&logo=huggingface&logoColor=black) |
+| **Tools & Cloud** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) |
 
+</div>
 
-# My interests are:
+---
 
-- ### Robotics (ROS1 ROS2)🚀💻⚡
-- ### Computer Vision 💻👁️‍🗨️
-- ### Natural Language Processing 🗣️📝
-- ### Machine learning 🧪🧬📈
-- ### Reinforcements Learning  💻👁️‍
+## 📂 Featured Projects
 
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Awesome Agent RAG LMMs Apps](https://github.com/mustafabozkaya/Awesome_Agent_Rag_LMMs_apps)** | A collection of cutting-edge RAG and Agentic applications. | `Python`, `LangChain`, `RAG` |
+| **[Ollama Chat App](https://github.com/mustafabozkaya/ollama-chat-app)** | Local LLM chat interface enabling privacy-first AI interactions. | `Python`, `Streamlit`, `Ollama` |
+| **[ROS Based Package](https://github.com/mustafabozkaya/Ros-Based-Package-and-Robots)** | ROS packages for robot simulation and control. | `C++`, `Python`, `ROS`, `Gazebo` |
+| **[ChatGPT Discord Bot](https://github.com/mustafabozkaya/chatgpt-discord-bot)** | A robust Discord bot integration for ChatGPT. | `Go`, `OpenAI API` |
 
+---
 
+## 📊 GitHub Stats
 
-# 💻 Languages and  Tech Stacks:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafabozkaya&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" alt="Mustafa's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustafabozkaya&layout=compact&theme=radical&hide_border=true" height="180" alt="Top Languages" />
+</div>
 
+<br />
 
-## 📫 You can  reach me belove links ...
-## 🔗Social  Links
-[![kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mustafabozka)
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mustafabozkaya&theme=aura_dark&utcOffset=3" alt="Productive Time" />
+</div>
 
-[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mustafa-bozkaya/)
+---
 
-[![huggingface](https://img.shields.io/badge/Hugging%20Face-%2305A4CC.svg?style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/Mustafaege)
-
-[![website](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://mustafabozkaya.github.io/)
-
-[![medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mustafaegebozkaya555)
-
-[![react Projects](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](e-trading-app.herokuapp.com/)
-
-[![Mail Badge](https://img.shields.io/badge/info.mustafabozkaya@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:info.mustafabozkaya@gmail.com)](mailto:info.mustafabozkaya@gmail.com)
-  
-
-  
-## Contributing
-
-Contributions are always welcome!
+<p align="center">
+  <i>Let's build something amazing together!</i> 🦾
+</p>
