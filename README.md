@@ -58,6 +58,7 @@ I actively engage with the AI community to stay at the bleeding edge of technolo
 
 | Project | Architectural Highlights | Tech Stack |
 | :--- | :--- | :--- |
+| **[Medical Fundus RAG](https://github.com/mustafabozkaya/medical-fundus-rag)** | **Explainable Medical AI**. Eye disease diagnosis using RAG with BiomedCLIP & Qdrant. | `BiomedCLIP`, `Qdrant`, `Gemini Pro`, `Gradio` |
 | **[Awesome Agent RAG LMMs Apps](https://github.com/mustafabozkaya/Awesome_Agent_Rag_LMMs_apps)** | **Agentic RAG System**. Designed to orchestrate complex retrieval workflows. | `Python`, `LangChain`, `RAG`, `Agents` |
 | **[Ollama Chat App](https://github.com/mustafabozkaya/ollama-chat-app)** | **Private LLM Deployment**. Local inference optimization for privacy-first AI. | `Python`, `Streamlit`, `Ollama`, `LocalLLM` |
 | **[ROS Based Package](https://github.com/mustafabozkaya/Ros-Based-Package-and-Robots)** | **Robotics Middleware**. Modular ROS2 packages for autonomous navigation. | `C++`, `ROS2`, `Gazebo`, `SLAM` |
